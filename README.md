@@ -14,7 +14,7 @@ vi Phase-field fracture for thermoelasticity,
 
 vii Phase-field fatigue fracture.
 
-How to cite us: https://10.1007/s11831-022-09751-6 and https://doi.org/10.5281/zenodo.6451942
+How to cite us: https://doi.org/10.1007/s11831-022-09751-6 and https://doi.org/10.5281/zenodo.6451942
 
 Accepted for publication in Archives of Computational Methods in Engineering
 
